@@ -1,0 +1,66 @@
+body {
+	font-size: medium;
+	background-image: url("fone_m.png");
+}
+body.sp {
+	background-image: url("pho.png");
+}
+h1.main1 {
+	display: block;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 4em;
+	color:  white;
+	margin-left: 5%;
+}
+img.logo {
+	display: block;
+	max-width: 20%;
+	margin: 0 auto;
+}
+p.vop {
+	display: block;
+	font-style: italic;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 2.5em;
+	color:  white;
+	margin-left: 10%;
+}
+p {
+	display: block;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 2em;
+	color:  white;
+	margin-left: 15%;
+}
+ul.menu {
+	background: ghostwhite;
+	padding: 25px;
+	padding-left: 60px;
+	padding-right: 250px;
+	margin-left: 20px;
+	font-family: Georgia, Times New Roman, serif;
+	color: #444444;
+	line-height: 3em;
+	font-style: italic;
+	margin-right: 250px;
+	margin-left: 250px;
+}
+li {
+	font-size: 2em;
+	margin-right: 20px;
+}
+ol {
+	padding: 25px;
+	padding-left: 60px;
+	padding-right: 250px;
+	margin-left: 20px;
+	font-family: Georgia, Times New Roman, serif;
+	color: white;
+	line-height: 3em;
+	font-style: italic;
+	margin-right: 250px;
+	margin-left: 250px;
+}
+a.cr {
+	color: white;
+}
